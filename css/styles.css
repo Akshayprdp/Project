@@ -324,3 +324,40 @@ margin-left: 250px;margin-top: 30px;position: absolute;color: rgb(31, 57, 44);
   margin-left: -200px;
   margin-top: -190px;
 }
+
+.footer{
+  margin-top: 500px;
+}
+
+.footerh1{
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 66.83px;
+  color: rgb(31, 57, 44);
+  margin-left: 450px;
+}
+
+.footerh2{
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 66.83px;
+  color: rgb(31, 57, 44);
+  margin-left: 550px;
+}
+.Illustration{
+  margin-left: 440px;
+  margin-top: 60px;
+  position: absolute;
+}
+
+.ytb1{
+  margin-left: 1040px;
+  margin-top: 100px;
+  position: absolute;
+}
+.ytb2{margin-left: 620px;
+  margin-top: 470px;
+  position: absolute;}
+.ytb3{margin-left: 1220px;
+  margin-top: 400px;
+  position: absolute;}
