@@ -1,5 +1,6 @@
+.body{background-color: rgb(248, 245, 240)}
 .navbar {
-  background-color: white;
+  background-color: rgb(248, 245, 240);
   position: absolute;
 }
 
@@ -56,11 +57,177 @@ margin-left: 200px;
     font-weight: 500;
     color: rgb(31, 57, 44);
 }
-/*  */
+
+
+/* section1 */
+
 .line1{
-width: 250px;
+width: 440px;
 margin-top: 90px;
-height: 550px;
+height: 804px;
 position:relative;
+z-index: 1
+
+}
+
+.hand2{
+  margin-top: -520px;
+  margin-left: -455px;
+  width: 414px;
+  height: 217px;
+  position: relative;
+  z-index: 2;
+}
+
+
+.hand1{
+  position: relative;
+  margin-left: 1350px;
+  width: 403px;
+height: 426px;
+margin-top: -420px;
+z-index: -1;
+
+}
+
+.imgline{
+  /* position: absolute; */
+  /* margin-top: -231px; */
+  /* margin-left: 50px; */
+  /* height: 129.5px; */
+  /* width: 626.31; */
+  /* z-index: 2; */
+  /* width: 440px; */
+margin-top: 310px;
+margin-left: 30px;
+position:absolute;
+z-index: 1
+}
+
+.caption1, .caption2, .caption3 {
+  font-size: 110px; /* Adjusted to fit within the black div */
+  color: rgb(31, 57, 44);
+  margin: 0;
+  margin-top: -20px;
+  /* z-index: 3; */
+}
+
+.caption1 {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: -20px;
+  
+}
+
+.caption2 {
+margin-top: 100px;
+margin-left: 70px;
+/* z-index: -2   */
+}
+
+.caption3 {
+  margin-left: 290px;
+}
+
+.spark {
+  background-color: #F8F5F0;
+  width: 977px;
+  height: 325px;
+  position: absolute;
+  margin-top: -690px;
+  margin-left: 390px;
+  padding-top: -20px; 
+  box-sizing: border-box;
+}
+.spark2 {
+  background-color:#F8F5F0;
+  position: relative; 
+  bottom: 0; 
+  width: 100%; 
+  height: 192px;
+  margin-top: -19px;
+  z-index: -1;
+}
+.p1{
+  color: rgb(31, 57, 44);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  width: 773px;
+  margin-left: 155px;
+  margin-top: 20px;
+  position: absolute;
+}
+.p2{ color:rgb(31, 57, 44);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  margin-left: 165px;
+position: absolute;
+margin-top: 40px;}
+
+.email{
+  width: 537px;
+  height: 64px;
+  border-radius: 100px;
+  border: none;
+  margin-top: 110px;
+  margin-left: 200px;
+  margin-left: -1155px;
+margin-top: -255px;
+position: absolute;
+
+}
+
+.button{color: #000000;
+margin-left: -735px;
+margin-top: -247px;
+position: absolute;
+height: 48px;
+width: 102px;
+border-radius: 100px;
+background-color: #e517e5;
+border: 0px;}
+
+.email::placeholder{
+  font-size: large;
+  margin-left: 50px;
+  position: absolute;
+}
+.fb1{
+  position: absolute;
+  margin-top: 790px;
+  margin-left: -210px;
+}
+.remove{
+  position: absolute;
+  margin-left: -100px;
+  margin-top: 350px;
+}
+.inst{
+  position: absolute;
+  margin-top: 410px;
+  margin-left: -350px;
+}
+.Vector2{
+  position: absolute;
+  margin-left: -350px;
+  margin-top: -620px;
+  width: 376.39px;
+  height: 507.35px;
+  
+}
+.ytb{
+  position: absolute;
+  margin-left: -300px;
+  margin-top: -185px;
+}
+.fb{
+  position: absolute;
+  margin-left: -50px;
+  margin-top: -685px;
+}
+.bulb2{
+  position: absolute;
+  margin-left: -350px;
+  margin-top: -585px;
 }
 
