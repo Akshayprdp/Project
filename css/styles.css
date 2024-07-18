@@ -91,13 +91,6 @@ z-index: -1;
 }
 
 .imgline{
-  /* position: absolute; */
-  /* margin-top: -231px; */
-  /* margin-left: 50px; */
-  /* height: 129.5px; */
-  /* width: 626.31; */
-  /* z-index: 2; */
-  /* width: 440px; */
 margin-top: 310px;
 margin-left: 30px;
 position:absolute;
@@ -105,11 +98,11 @@ z-index: 1
 }
 
 .caption1, .caption2, .caption3 {
-  font-size: 110px; /* Adjusted to fit within the black div */
+  font-size: 110px; 
   color: rgb(31, 57, 44);
   margin: 0;
   margin-top: -20px;
-  /* z-index: 3; */
+  
 }
 
 .caption1 {
@@ -230,4 +223,104 @@ border: 0px;}
   margin-left: -350px;
   margin-top: -585px;
 }
+/* section2 */
 
+.div2{
+  background-color:  #F8F5F0;
+  margin-left: 500px;
+}
+.div2caption1{
+  font-size: 56px;
+  line-height: 66.83px;
+  font-weight: 700;
+  color: rgb(31, 57, 44);
+}
+.div2caption2{
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 66.83px;
+  color: rgb(31, 57, 44);
+  margin-left: 20px;
+  position: relative;
+}
+.lineunderpmsp{
+  margin-left: 330px;
+  margin-top: -50px;
+}
+
+
+.Partners{
+  background-color: rgb(249, 15, 15);
+  width: 1192px;
+  height: 340px;
+  border-radius: 24px;
+  margin-left: -310px;
+  position: absolute;
+  margin-top: 30px;
+}
+.heading99{
+  font-weight: 600;
+  font-size: 48px;
+  color: rgb(31, 57, 44);
+  margin-left: 100px;
+  margin-top: 80px;
+  
+}
+.caption99{
+  font-weight: 400;
+  font-size: 20px;
+  color: rgb(31, 57, 44);
+  line-height: 32px;
+  width: 530px;
+  margin-left: 100px;
+}
+.twitter{
+  width: 404px;
+  height: 196px;
+  border-radius: 16px;
+  background-color: rgb(255, 96, 230);
+  margin-top: -200px;
+  margin-left: 650px;
+}
+.twitter1{
+  font-weight: 400;font-size: 16px;line-height: 24px;margin-top: 70px;position: absolute;margin-left: 40px;color: rgb(31, 57, 44);
+}
+.twitter2{
+margin-left: 250px;margin-top: 30px;position: absolute;color: rgb(31, 57, 44);
+}
+.twtr{
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.pinterest{
+  position: absolute;
+  width: 404px;
+  height: 196px;
+  border-radius: 16px;
+  background-color: rgb(255, 173, 242);
+  margin-top: -200px;
+  margin-left: 1100px;
+}
+
+.pinterest1{
+  font-weight: 400;font-size: 16px;line-height: 24px;margin-top: 70px;position: absolute;margin-left: 40px;color: rgb(31, 57, 44);
+}
+
+.pinterest2{
+  margin-left: 230px;
+  margin-top: 30px;
+  position: absolute;
+  color: rgb(31, 57, 44);
+}
+.pntrst{
+  
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.vector99{
+  position: absolute;
+  z-index: -1  ;
+  margin-left: -200px;
+  margin-top: -190px;
+}
