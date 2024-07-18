@@ -180,13 +180,16 @@ position: absolute;
 }
 
 .button{color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
 margin-left: -735px;
 margin-top: -247px;
 position: absolute;
 height: 48px;
 width: 102px;
 border-radius: 100px;
-background-color: #e517e5;
+background-color:rgb(255, 96, 230);
 border: 0px;}
 
 .email::placeholder{
@@ -259,7 +262,7 @@ border: 0px;}
 
 
 .Partners{
-  background-color: rgb(249, 15, 15);
+  background-color: #F8F5F0;
   width: 1192px;
   height: 340px;
   border-radius: 24px;
